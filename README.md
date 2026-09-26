@@ -9,7 +9,7 @@
 💼 &nbsp;Commercial experience: co-developed **[Colorist](https://github.com/IvanIvchatov/colorist-showcase)**, a full e-commerce platform for a real client (ASP.NET Core, PostgreSQL, Docker).\
 🌱 &nbsp;I'm learning more about backend architecture, cloud deployment and automation.\
 🔍 &nbsp;Open to **part-time** and **freelance** work — remote or in Kyiv.\
-✉️ &nbsp;You can reach me at ivan.ivchatov.25@kse.org.ua — I'll respond as soon as I can.
+✉️ &nbsp;You can reach me at ivanivchatov@gmail.com — I'll respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
