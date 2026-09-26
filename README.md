@@ -17,10 +17,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)\
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vuedotjs)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Telegram Bot API](https://img.shields.io/badge/-Telegram%20Bots-05122A?style=flat&logo=telegram)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -29,6 +33,7 @@
 ![htmx](https://img.shields.io/badge/-htmx-05122A?style=flat&logo=htmx)&nbsp;
 ![Alpine.js](https://img.shields.io/badge/-Alpine.js-05122A?style=flat&logo=alpinedotjs)\
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -40,6 +45,15 @@
 
 **[Colorist](https://github.com/IvanIvchatov/colorist-showcase)** — commercial e-commerce platform for a professional cosmetics brand *(real client, team of 2)*.
 Catalog with interactive shade palettes, cart and payments, customer wallet, admin panel with audit log, Docker deployment to a VPS and CI.
+
+### 📂 &nbsp;Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [clinic-management-system](https://github.com/IvanIvchatov/clinic-management-system) | Clinic admin panel: REST API with JWT auth + SPA | Laravel, Vue 3, MySQL |
+| [gym-database-postgresql](https://github.com/IvanIvchatov/gym-database-postgresql) | Gym database: schema, procedures, views, index performance on 500k rows | PostgreSQL |
+| [expression-interpreter-cpp](https://github.com/IvanIvchatov/expression-interpreter-cpp) | Arithmetic expression interpreter: tokenizer, parser, expression tree | C++ |
+| [console-text-editor-c](https://github.com/IvanIvchatov/console-text-editor-c) | Terminal text editor with undo/redo and manual memory management | C |
 
 ### 🤝🏻 &nbsp;Connect with Me
 
