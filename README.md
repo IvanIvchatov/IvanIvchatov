@@ -1,4 +1,4 @@
-![Ivan Ivchatov banner](https://capsule-render.vercel.app/api?type=waving&color=0:05122A,100:1B4D3E&height=200&section=header&text=Ivan%20Ivchatov&fontSize=48&fontColor=ffffff&desc=Web%20%26%20Telegram%20bot%20developer%20%C2%B7%20Kyiv&descAlignY=65&descSize=18)
+![Ivan Ivchatov banner](./banner.svg)
 
 <h2>👋 Hey there! I'm Ivan</h2>
 
@@ -41,15 +41,6 @@
 
 **[Colorist](https://github.com/IvanIvchatov/colorist-showcase)** — commercial e-commerce platform for a professional cosmetics brand *(real client, team of 2)*.
 Catalog with interactive shade palettes, cart and payments, customer wallet, admin panel with audit log, Docker deployment to a VPS and CI.
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/IvanIvchatov">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanIvchatov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanIvchatov&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
