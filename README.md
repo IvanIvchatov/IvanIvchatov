@@ -58,6 +58,7 @@ Catalog with interactive shade palettes, cart and payments, customer wallet, adm
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+<a href="https://www.linkedin.com/in/ivan-ivchatov-b15a23234"><img src="https://img.shields.io/badge/-Ivan%20Ivchatov-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ivan.ivchatov.25@kse.org.ua"><img src="https://img.shields.io/badge/-ivan.ivchatov.25@kse.org.ua-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/IvanIvchatov"><img src="https://img.shields.io/badge/-IvanIvchatov-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </p>
